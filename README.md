@@ -1,4 +1,4 @@
-# Responsive Sushi Website
+# Sushi Website
 - Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
 - Includes a dark and light mode.
 - Smooth scrolling in each section.
