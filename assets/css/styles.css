@@ -931,7 +931,7 @@ body.dark-theme{
     width: 400px;
   }
   .newsletter__content{
-    grid-template-columns: 45% 50%;
+    grid-template-columns: 40% 50%;
     align-items: center;
     column-gap: 6rem;
     padding: 2.5rem 0;
@@ -1005,7 +1005,7 @@ body.dark-theme{
 
 @media screen and (min-width: 1064px){
   .container{
-     margin-inline: auto;
+     margin-inline: 5.5rem;
   }
 }
 
